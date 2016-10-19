@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					AF4D95371DB76A2600A433FF = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = BB4BEXZ4V7;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -273,8 +274,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = BB4BEXZ4V7;
 				INFOPLIST_FILE = JenkinsTestProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsw.JenkinsTestProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -287,8 +289,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = BB4BEXZ4V7;
 				INFOPLIST_FILE = JenkinsTestProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsw.JenkinsTestProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
